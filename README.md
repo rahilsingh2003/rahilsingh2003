@@ -34,3 +34,5 @@ I’m currently a **Graphic Information Technology** major at **Arizona State Un
 ---
 
 _Thanks for stopping by! Looking forward to collaborating, learning, and growing in the world of design._
+
+<img src="https://github.com/rahilsingh2003/rahilsingh2003/blob/main/ca4d2391455ade48053c0b6861842574.gif?raw=true" alt="Space GIF" width="100%">
