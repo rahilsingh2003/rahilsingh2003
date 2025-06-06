@@ -30,7 +30,7 @@ I’m currently a **Graphic Information Technology** major at **Arizona State Un
 ## 📊 GitHub Stats
 
 ![Rahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahilsingh2003&show_icons=true&theme=default)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahilsingh2003&layout=compact)
 ---
 
 _Thanks for stopping by! Looking forward to collaborating, learning, and growing in the world of design._
